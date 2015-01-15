@@ -2,7 +2,7 @@
 Learn the pySpark API though pictures and simple examples
 
 ## Static Version
-http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/sparkAPI.ipynb
+http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pySpark-pictures.ipynb
 
 ## Dynamic Version (interactive example code)
 1) install [Spark](https://spark.apache.org/)
