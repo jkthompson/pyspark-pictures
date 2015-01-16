@@ -10,8 +10,8 @@ y = x.flatMap(lambda x: (x, 100*x, x**2))
 print(x.collect())
 print(y.collect())
 ```
-[1, 2, 3]
-[1, 100, 1, 2, 200, 4, 3, 300, 9]
+[1, 2, 3]  
+[1, 100, 1, 2, 200, 4, 3, 300, 9]  
 
 ## [View Static Version](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pySpark-pictures.ipynb)
 
