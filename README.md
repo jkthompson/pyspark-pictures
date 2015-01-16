@@ -1,7 +1,7 @@
 # pyspark-pictures
 Learn the pySpark API though pictures and simple examples
 
-![](./images/pyspark-page4.svg)
+![example image]files/images/pyspark-page4.svg)
 
 ```python
 # flatMap
