@@ -1,7 +1,7 @@
 # pyspark-pictures
 Learn the pySpark API though pictures and simple examples
 
-![example image](files/images/pyspark-page4.svg)
+![example image](./images/readme-example.png)
 
 ```python
 # flatMap
@@ -13,8 +13,7 @@ print(y.collect())
 [1, 2, 3]
 [1, 100, 1, 2, 200, 4, 3, 300, 9]
 
-## View Static Version
-http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pySpark-pictures.ipynb
+## [View Static Version](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pySpark-pictures.ipynb)
 
 ## Install Interactive Version
 1. install [Spark](https://spark.apache.org/)
