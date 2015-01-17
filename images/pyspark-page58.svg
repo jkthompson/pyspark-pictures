@@ -187,7 +187,7 @@
 <path style="fill-rule:nonzero;fill:rgb(84.70459%,62.35199%,22.3526%);fill-opacity:1;stroke-width:762;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:14.335588;" d="M 267253.632073 137334.620605 L 361307.050938 137334.620605 L 361307.050938 167707.463383 L 267253.632073 167707.463383 Z M 267253.632073 137334.620605 " transform="matrix(0.0019685,0,0,0.0019685,0,0)"/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 526.089844 270.34375 L 550.863281 270.34375 L 550.863281 302.234375 L 526.089844 302.234375 Z M 526.089844 270.34375 "/>
 <g style="fill:rgb(100%,100%,100%);fill-opacity:1;">
-  <use xlink:href="#glyph0-4" x="532.83853" y="290.534498"/>
+  <use xlink:href="#glyph0-4" x="532.838567" y="290.534498"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-6" x="564.000063" y="289.84158"/>

@@ -71,7 +71,7 @@
 <path style="fill-rule:nonzero;fill:rgb(22.744751%,50.587463%,72.940063%);fill-opacity:1;stroke-width:762;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:14.335588;" d="M 18287.999415 67526.294714 L 73798.903888 67526.294714 L 73798.903888 97897.153117 L 18287.999415 97897.153117 Z M 18287.999415 67526.294714 " transform="matrix(0.0019685,0,0,0.0019685,0,0)"/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 36 132.925781 L 56.929688 132.925781 L 56.929688 164.816406 L 36 164.816406 Z M 36 132.925781 "/>
 <g style="fill:rgb(100%,100%,100%);fill-opacity:1;">
-  <use xlink:href="#glyph0-1" x="42.750845" y="153.115203"/>
+  <use xlink:href="#glyph0-1" x="42.750849" y="153.115203"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-3" x="68.190947" y="153.422291"/>
