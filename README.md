@@ -30,7 +30,7 @@ IPYTHON_OPTS="notebook" pyspark
 4. edit example code, press: <kbd>ctrl</kbd> + <kbd>enter</kbd> to run each cell 
 
 ## References
-[pySpark API]()
+[pySpark API](http://spark.apache.org/docs/1.2.0/api/python/index.html)
 
 ## Contribute
 Contributors are welcome  
