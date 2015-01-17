@@ -1,6 +1,7 @@
 # pyspark-pictures
 Learn the pySpark API through pictures and simple examples
 
+## Example:
 ![example image](./images/readme-example.png)
 
 ```python
@@ -29,7 +30,7 @@ IPYTHON_OPTS="notebook" pyspark
 4. edit example code, press: <kbd>ctrl</kbd> + <kbd>enter</kbd> to run each cell 
 
 ## References
-[pySpark API](https://spark.apache.org/docs/1.1.0/api/python/pyspark-module.html)
+[pySpark API]()
 
 ## Contribute
 Contributors are welcome  
