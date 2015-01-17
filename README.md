@@ -1,5 +1,5 @@
 # pyspark-pictures
-Learn the pySpark API through pictures and simple examples
+Learn the pyspark API through pictures and simple examples
 
 ## Example:
 ![example image](./images/readme-example.png)
@@ -21,16 +21,16 @@ print(y.collect())
 2. install [IPython notebook](http://ipython.org/notebook.html)
 
 ## Quick Start
-1. start pySpark inside IPython notebook
+1. start pyspark inside IPython notebook
 ```bash
 IPYTHON_OPTS="notebook" pyspark
 ```
 2. open browser to notebook link 
-3. open pySpark-pictures.ipynb 
+3. open pyspark-pictures.ipynb 
 4. edit example code, press: <kbd>ctrl</kbd> + <kbd>enter</kbd> to run each cell 
 
 ## References
-[pySpark API](http://spark.apache.org/docs/1.2.0/api/python/index.html)
+[pyspark API](http://spark.apache.org/docs/1.2.0/api/python/index.html)
 
 ## Contribute
 Contributors are welcome  
