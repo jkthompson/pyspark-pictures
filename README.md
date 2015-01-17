@@ -14,7 +14,7 @@ print(y.collect())
 [1, 2, 3]  
 [1, 100, 1, 2, 200, 4, 3, 300, 9]  
 
-## [View static version on NBViewer](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pySpark-pictures.ipynb)
+## [View static version on NBViewer](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures.ipynb)
 
 ## Install (for interactive use)
 1. install [Spark](https://spark.apache.org/)
