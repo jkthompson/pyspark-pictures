@@ -22,9 +22,11 @@ print(y.collect())
 
 ## Quick Start
 1. start pyspark inside IPython notebook
-```bash
-IPYTHON_OPTS="notebook" pyspark
-```
+ 	
+	```bash
+	IPYTHON_OPTS="notebook" pyspark
+	```
+
 2. open browser to notebook link 
 3. open pyspark-pictures.ipynb 
 4. edit example code, press: <kbd>ctrl</kbd> + <kbd>enter</kbd> to run each cell 
