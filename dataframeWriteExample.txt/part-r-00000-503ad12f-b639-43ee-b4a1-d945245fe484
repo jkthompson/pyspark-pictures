@@ -1,0 +1,3 @@
+{"from":"Alice","to":"Bob","amt":0.1}
+{"from":"Bob","to":"Carol","amt":0.2}
+{"from":"Carol","to":"Dave","amt":0.3}
