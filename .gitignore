@@ -21,3 +21,6 @@ __pycache__
 .#*
 .coverage
 metastore_db
+*.txt
+*.log
+*.json*
