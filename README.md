@@ -2,8 +2,8 @@
 Learn the pyspark API through pictures and simple examples
 
 ## View on NBViewer
-[RDD API](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures.ipynb)
-[DataFrame API](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures-dataframes.ipynb)
+* [RDD API](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures.ipynb)
+* [DataFrame API](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures-dataframes.ipynb)
 
 ## RDD Example:
 ![example image](./images/readme-example.png)
