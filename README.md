@@ -1,7 +1,11 @@
 # pyspark-pictures
 Learn the pyspark API through pictures and simple examples
 
-## Example:
+## View on NBViewer
+[RDD API](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures.ipynb)
+[DataFrame API](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures-dataframes.ipynb)
+
+## RDD Example:
 ![example image](./images/readme-example.png)
 
 ```python
@@ -13,8 +17,6 @@ print(y.collect())
 ```
 [1, 2, 3]  
 [1, 100, 1, 2, 200, 4, 3, 300, 9]  
-
-## [View static version on NBViewer](http://nbviewer.ipython.org/github/jkthompson/pyspark-pictures/blob/master/pyspark-pictures.ipynb)
 
 ## Install (for interactive use)
 1. install [Spark](https://spark.apache.org/)
@@ -28,11 +30,11 @@ print(y.collect())
 	```
 
 2. open browser to notebook link 
-3. open pyspark-pictures.ipynb 
+3. open pyspark-pictures.ipynb or pyspark-pictures-dataframes.ipynb
 4. edit example code, press: <kbd>ctrl</kbd> + <kbd>enter</kbd> to run each cell 
 
 ## References
-[pyspark API](http://spark.apache.org/docs/1.2.0/api/python/index.html)
+[pyspark API](http://spark.apache.org/docs/latest/api/python/index.html)
 
 ## Contribute
 Contributors are welcome  
