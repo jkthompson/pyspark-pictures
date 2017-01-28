@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sun May 08 22:20:37 PDT 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0154-93f5-c210-000031f7fc90 
-on database directory /home/jeff/prj/pyspark-pictures/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@66bc5b6c 
+Fri Jan 27 23:03:17 PST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0159-e3e2-9f04-0000317e97b0 
+on database directory /home/jeff/projects/pyspark-pictures/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@29f8093e 
 Loaded from file:/home/jeff/spark-1.6.1-bin-hadoop2.6/lib/spark-assembly-1.6.1-hadoop2.6.0.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.7.0_95-b00
-user.dir=/home/jeff/prj/pyspark-pictures
+java.runtime.version=1.7.0_121-b00
+user.dir=/home/jeff/projects/pyspark-pictures
 os.name=Linux
 os.arch=amd64
 os.version=3.8.11
